@@ -68,18 +68,14 @@ nav > a {
   margin-top: 12px;
 }
 
-.profile > main > p {
-  color: #344563;
-}
-
-.profile {
-  margin-top: 12px;
-}
-
 .profile > p {
   text-transform: uppercase;
   color: #7f8cff;
   margin-top: 20px;
+}
+
+.profile > main > p {
+  color: #344563;
 }
 
 .social-container {
